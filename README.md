@@ -37,4 +37,4 @@
 
 
 ###
-<img src="https://roadmap.sh/card/tall/68043c24d7a904b5ef08f5c9?variant=dark"/>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68043c24d7a904b5ef08f5c9?variant=dark&roadmaps=69c601a033a0ad7a578fbf57%2Clinux%2Cpython%2Cshell-bash" alt="roadmap.sh"/></a>
