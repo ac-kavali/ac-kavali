@@ -15,8 +15,6 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" height="40" alt="kali logo"  /> 
   <img width="12" />
-  <img src="https://www.image2url.com/r2/default/images/1776665015755-204fcfdf-60cb-43ca-9d52-1253d0dffe7e.png" height="40" alt="nmap"  /> 
-  <img width="12" />
        
 ###     
     
