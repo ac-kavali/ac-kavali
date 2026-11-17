@@ -38,3 +38,4 @@
 
 ###
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68043c24d7a904b5ef08f5c9?variant=dark&roadmaps=69c601a033a0ad7a578fbf57%2Clinux%2Cpython%2Cshell-bash" alt="roadmap.sh"/></a>
+[![Elite 1337 rank](https://www.elite-1337.app/api/card/237155.svg?t=g_SYld339eyua4dXmh6FnPsv0dlq7kdku3_RFnpFxYs&theme=dark&accent=peach&art=blocks&logo=0)](https://www.elite-1337.app)
